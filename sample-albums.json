@@ -1,0 +1,52 @@
+{   "albums": [{
+        "title": "Disco Volante (1995)", 
+        "artist": "Mr.Bungle", 
+        "description": "The second studio album by American experimental rock band Mr.Bungle.", 
+        "id": "1"
+    }, {
+        "title": "Bellybutton (1990)", 
+        "artist": "Jellyfish", 
+        "description": "The debut album by American rock band Jellyfish.", 
+        "id": "2"
+    }, {
+        "title": "Congratulations (2010)", 
+        "artist": "MGMT", 
+        "description": "The second studio album by American rock band MGMT.", 
+        "id": "3"
+    }, {
+        "title": "Hissing Fauna, Are You The Destroyer? (2007)", 
+        "artist": "of Montreal", 
+        "description": "The eighth album by American indie pop band of Montreal.", 
+        "id": "1" 
+    }, {
+        "title": "Transgender Dysphoria Blues (2014)", 
+        "artist": "Against Me!", 
+        "description": "The sixth studio album by punk band Against Me!", 
+        "id": "5"
+    }, {
+        "title": "Now You Are One Of Us (2006)", 
+        "artist": "the pAper chAse", 
+        "description": "The fourth album by alternative rock band the pAper chAse.", 
+        "id": "6"
+    }, {
+        "title": "Pop Food (2017)", 
+        "artist": "Jack Stauber", 
+        "description": "The third album by American indie pop musician Jack Stauber.", 
+        "id": "7"
+    }, {
+        "title": "It's A Wonderful Life (2001)", 
+        "artist": "Sparklehorse", 
+        "description": "The third studio album by American musical act Sparklehorse.", 
+        "id": "8"
+    }, {
+        "title": "Angel Dust (1992)",
+        "artist": "Faith No More", 
+        "description": "The fourth studio album by American rock band Faith no More.", 
+        "id": 9
+    }, {
+        "title": "I Brought You My Bullets, You Brought Me Your Love (2002)", 
+        "artist": "My Chemical Romance", 
+        "description": "The debut studio album by American rock band My Chemical Romance", 
+        "id": 10
+    }]
+}
